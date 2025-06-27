@@ -1,3 +1,3 @@
-# Quiz-app
+# DEMO
 
 Author-Ruchira Patil
